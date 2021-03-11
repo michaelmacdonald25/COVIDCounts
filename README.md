@@ -8,7 +8,7 @@ Supply schedule is based on the latest from Canada.ca (currently has until mid-A
 
 Sharing an output on Tableau (and sometimes on Twitter), have a look over there and suggest any improvements. :)
 
-Ontario forecast: Has not yet built in supply/distribution improvements but rather continues the day-to-day % shifts (Sunday reverts to WoW)
+Ontario daily administrations forecast: Has not yet fully considered supply/distribution improvements but rather continues the recent day-to-day % lifts (Sunday reverts to WoW)
 
 Canada forecast: Currently carries forward the previous weeks administrations (hoping to apply a one-size-fits-all approach)
 
