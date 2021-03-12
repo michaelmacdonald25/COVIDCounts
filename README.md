@@ -2,9 +2,7 @@
 
 Hi! Attached is a view of daily COVID-19 vaccine administrations in Canada by province and territory.
 
-The supply schedule is based on the latest information shared on Canada.ca (until mid-May).
-
-COVID19Tracker.ca has provided a ton of data-points for this view! 
+The supply schedule is based on the latest information shared on Canada.ca (until mid-May). All other data points have been provided by COVID19Tracker.ca, which has been incredibly helpful!
 
 I'm sharing a visualization of this content on Tableau (and sometimes Twitter); feel free to suggest any changes! :)
 
