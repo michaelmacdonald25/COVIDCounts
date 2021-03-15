@@ -6,4 +6,4 @@ The supply schedule is based on the latest information shared on Canada.ca (unti
 
 I'm sharing a visualization of this content on Tableau (and sometimes Twitter); feel free to suggest any changes! :)
 
-The forecast of daily administrations is very much a work-in-progress. As a placeholder, all provinces/territories assume a 30% week-over-week lift until March 28th, a 10% lift until April 4th, and then holds flat to the previous week. With supply and distribution ramp-up, administrations should do so as well (admittedly conservative forecast).
+The forecast of daily administrations is very much a work-in-progress. As a placeholder, all provinces/territories assume a 35% week-over-week lift until March 28th and then holds flat to the previous week. With supply and distribution ramp-up, administrations should do so as well (admittedly conservative forecast).
